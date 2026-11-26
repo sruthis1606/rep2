@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+  margin: 0;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: navy;
+}
+
+p {
+  color: #444;
+}
+
+div {
+  margin-bottom: 15px;
+}
